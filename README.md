@@ -36,7 +36,7 @@ A simple to-do list application built with Flutter using GetX for state manageme
 ### Installation
 
 ```bash
-git clone https://github.com/your-username/mini_todo_app.git
+git clone https://github.com/Abdulazeez420/mini_todo_app.git
 cd mini_todo_app
 flutter pub get
 flutter run
